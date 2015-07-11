@@ -1,0 +1,1176 @@
+// !!! BINARY PROPERTY LIST WARNING !!!
+//
+// The pretty-printed property list below has been created
+// from a binary version on disk and should not be saved as
+// the ASCII format is a subset of the binary representation!
+//
+
+{	Children = (
+		{	Title = "History";
+			WebBookmarkIdentifier = "History";
+			WebBookmarkType = "WebBookmarkTypeProxy";
+			WebBookmarkUUID = "D5A00EB9-11B8-447A-A65B-6C2F3DB26789";
+		},
+		{	Children = (
+				{	URIDictionary = { title = "Apple"; };
+					URLString = "http://www.apple.com/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "5BF87321-16A6-44AB-B224-F5CEB3960275";
+				},
+				{	URIDictionary = { title = "iCloud"; };
+					URLString = "https://www.icloud.com/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "AB1EDCB7-EA8E-4646-8669-ADF76446B668";
+				},
+				{	URIDictionary = { title = "Facebook"; };
+					URLString = "https://www.facebook.com/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "FE10063C-AA47-44C3-B663-F1B2DA6FA729";
+				},
+				{	URIDictionary = { title = "Twitter"; };
+					URLString = "https://twitter.com/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "9B575126-44D9-4343-82D9-A8DD0B18D182";
+				},
+				{	URIDictionary = { title = "Wikipedia"; };
+					URLString = "http://en.wikipedia.org/wiki/Main_Page";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "E41B607F-E43A-4C9F-AA3B-1673712BF512";
+				},
+				{	URIDictionary = { title = "Yahoo"; };
+					URLString = "http://www.yahoo.com/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "07536414-23C9-4EEF-9E00-578BCB67019C";
+				},
+				{	Children = (
+						{	URIDictionary = { title = "BBC"; };
+							URLString = "http://www.bbc.co.uk/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "13EA4EB7-166C-4545-81F6-DDDFD04FB2DD";
+						},
+						{	URIDictionary = { title = "CNN"; };
+							URLString = "http://www.cnn.com/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "8BBE1DFD-B368-4544-BE43-C723A0B59F64";
+						},
+						{	URIDictionary = { title = "ESPN"; };
+							URLString = "http://espn.go.com/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "F3FACF9E-7602-44F3-8109-1F23F800CD0F";
+						},
+						{	URIDictionary = { title = "NPR"; };
+							URLString = "http://www.npr.org/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "A93BB3A8-2943-47F3-A35B-86A5E6549EDC";
+						},
+						{	URIDictionary = { title = "USA Today"; };
+							URLString = "http://www.usatoday.com/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "FF63942C-E5F8-4E61-8305-56914F49959E";
+						},
+						{	URIDictionary = { title = "The Wall Street Journal"; };
+							URLString = "http://online.wsj.com/home-page";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "62624FC1-A576-47DA-B30D-78641799E00A";
+						},
+					);
+					Title = "News";
+					WebBookmarkType = "WebBookmarkTypeList";
+					WebBookmarkUUID = "FA3E422F-B29F-48BF-AD87-0D73C140333A";
+				},
+				{	Children = (
+						{	URIDictionary = { title = "Amazon"; };
+							URLString = "http://www.amazon.com/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "C8A1416C-0E33-45AC-AFDC-FFB3E5645472";
+						},
+						{	URIDictionary = { title = "Disney"; };
+							URLString = "http://disney.com/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "B52E47A0-4D1B-4464-8E75-877D9E0854D1";
+						},
+						{	URIDictionary = { title = "eBay"; };
+							URLString = "http://www.ebay.com/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "BE4B077B-342F-47D2-AE8A-F3D5F5EB14D4";
+						},
+						{	URIDictionary = { title = "Flickr"; };
+							URLString = "http://www.flickr.com/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "6D2F25F8-107B-48DA-A5BE-B4244EAF68D7";
+						},
+						{	URIDictionary = { title = "LinkedIn"; };
+							URLString = "https://www.linkedin.com/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "E0D0E1CE-6D11-44D9-9D95-7AF92B7E8F2D";
+						},
+						{	URIDictionary = { title = "Rotten Tomatoes"; };
+							URLString = "http://www.rottentomatoes.com/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "B00A0394-E467-4A1B-BF2F-33C17CC68AF3";
+						},
+						{	URIDictionary = { title = "The Weather Channel"; };
+							URLString = "http://www.weather.com/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "904B5FE9-4751-4B34-B462-9E961596D275";
+						},
+						{	URIDictionary = { title = "Yelp"; };
+							URLString = "http://www.yelp.com/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "78B937F4-C7D2-4947-9493-C2C5C371AA5C";
+						},
+					);
+					Title = "Popular";
+					WebBookmarkType = "WebBookmarkTypeList";
+					WebBookmarkUUID = "EEE98B52-E3A9-4A4E-8AB4-CECB0393167F";
+				},
+			);
+			Title = "BookmarksBar";
+			WebBookmarkType = "WebBookmarkTypeList";
+			WebBookmarkUUID = "96F50FF9-D2A6-40FD-8AA9-22164EDEE678";
+		},
+		{	Title = "BookmarksMenu";
+			WebBookmarkType = "WebBookmarkTypeList";
+			WebBookmarkUUID = "E2E0ADD1-EB38-403B-B10A-7CDFFE27640E";
+		},
+		{	Children = (
+				{	URIDictionary = { title = "ssh - How to scp in python? - Stack Overflow"; };
+					URLString = "http://stackoverflow.com/questions/250283/how-to-scp-in-python";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "09B0635A-F88C-4C34-8610-1ABAD0C28E89";
+				},
+				{	URIDictionary = { title = "Install and configure a SSH server on WinXP"; };
+					URLString = "http://comptb.cects.com/install-configure-ssh-on-windows/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "FD1DB4C6-823E-4F17-9E0A-9F73C7D51876";
+				},
+				{	URIDictionary = { title = "Copy files over SSH using paramiko « Python recipes « ActiveState Code"; };
+					URLString = "http://code.activestate.com/recipes/576810-copy-files-over-ssh-using-paramiko/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "FFCFC8BE-01E1-4CC9-BFDE-770FDFAB952B";
+				},
+				{	URIDictionary = { title = "SSH Programming with Paramiko | Completely Different — jesse noller - a blog"; };
+					URLString = "http://jessenoller.com/blog/2009/02/05/ssh-programming-with-paramiko-completely-different";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "8E3BF758-F657-4D27-B497-EDC8AEF5E527";
+				},
+				{	URIDictionary = { title = "Salmon Run: Using SSH in Python with Paramiko"; };
+					URLString = "http://sujitpal.blogspot.com/2010/11/using-ssh-in-python-with-paramiko.html";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "56A5D5F9-AB39-4965-8DF4-A865C6DEFA0A";
+				},
+				{	URIDictionary = { title = "Example syntax for Secure Copy (scp)"; };
+					URLString = "http://www.hypexr.org/linux_scp_help.php";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "01DA4F1A-CC9C-4CE4-89F6-5B8C519F1751";
+				},
+			);
+			Title = "ssh&scp";
+			WebBookmarkType = "WebBookmarkTypeList";
+			WebBookmarkUUID = "F67F9ADE-54FF-44F2-845A-851703E383EE";
+		},
+		{	Children = (
+				{	URIDictionary = { title = "AppSec Software Test Team - Application Security Engineering - Origin"; };
+					URLString = "https://origin.spirenteng.com/pages/viewpage.action?title=AppSec+Software+Test+Team&spaceKey=MUEng";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "DC4A2CFB-DEA1-4AE6-9665-28240FA90053";
+				},
+				{	URIDictionary = { title = "K1000 Service Center"; };
+					URLString = "http://helpdesk.spirent.com/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "06EB7217-0740-44F0-840B-AFAEF88B17D3";
+				},
+				{	ImportInfo = {
+						ImportOrigin = 1;
+						ImportOriginUUID = "8";
+					};
+					URIDictionary = { title = "Self Service Portal"; };
+					URLString = "https://portal.adp.com/public/index.htm";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "64B725C6-C3E3-4B28-AFBA-0A33ECF8C37B";
+				},
+				{	ImportInfo = {
+						ImportOrigin = 1;
+						ImportOriginUUID = "10";
+					};
+					URIDictionary = { title = "Avalanche NEXT - Basecamp"; };
+					URLString = "https://basecamp.com/1845489/projects/836507";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "285E9968-19A5-4872-85C5-A6F955566DC9";
+				},
+				{	URIDictionary = { title = "AvNext FAQ - Prateek - Application Security Engineering - Origin"; };
+					URLString = "https://origin.spirenteng.com/display/MUEng/AvNext+FAQ+-+Prateek";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "336A1FD4-E107-4864-9BC1-D9A2F08C51E1";
+				},
+				{	URIDictionary = { title = "AvalancheNext Controller architecture - Application Security Engineering - Origin"; };
+					URLString = "https://origin.spirenteng.com/display/MUEng/AvalancheNext+Controller+architecture";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "2E4DFB73-2B6D-4235-AC7B-BB99C7B3419B";
+				},
+				{	URIDictionary = { title = "Mu Dynamics · GitHub"; };
+					URLString = "https://github.com/mudynamics";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "D56270EF-D18C-45F5-ADB7-32B91AF4B0AF";
+				},
+				{	URIDictionary = { title = "Application Security Lab Management - Application Security Engineering - Origin"; };
+					URLString = "https://origin.spirenteng.com/pages/viewpage.action?title=Application+Security+Lab+Management&spaceKey=MUEng";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "A9B148D1-1979-472B-B418-851283974B6B";
+				},
+				{	URIDictionary = { title = "AvalancheNEXT APIs"; };
+					URLString = "http://10.10.3.213/apis/queues/test_status";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "B5DAEED1-70C7-4631-9323-9C15DDF9C42F";
+				},
+				{	URIDictionary = { title = "Studio Performance"; };
+					URLString = "http://10.10.2.83/#library/search";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "EDA3B6C5-0848-4CFB-9E83-EAAC009F9D6D";
+				},
+				{	URIDictionary = { title = "Documentation for mu (5.7.41)"; };
+					URLString = "http://www.rubydoc.info/gems/mu/5.7.41/frames";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "E0444548-79AB-48F5-92F5-0958A347AE3E";
+				},
+				{	URIDictionary = { title = "mudynamics/content_tools at scenario_test_automation"; };
+					URLString = "https://github.com/mudynamics/content_tools/tree/scenario_test_automation";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "9F8E3FE4-15A8-4618-96E0-B08470643ADF";
+				},
+				{	URIDictionary = { title = "SuccessFactors Log in"; };
+					URLString = "https://performancemanager4.successfactors.com/login?company=spirent&username=lei.jiang@spirent.com";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "8F3CC2B9-FE5F-4180-AA4E-753F1D9CB8B2";
+				},
+				{	URIDictionary = { title = "Spirent Communications WebEx Enterprise Site"; };
+					URLString = "https://spirent.webex.com/mw0401l/mywebex/default.do?siteurl=spirent&service=9&Rnd3123=9193";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "EF4891C3-8674-4DE0-9F50-E6BF5B5AF7D0";
+				},
+				{	URIDictionary = { title = "2014.11.05: Application Development Staff Meeting - Chocholak, Julian - Origin"; };
+					URLString = "https://origin.spirenteng.com/display/~jchocholak/2014.11.05%3A+Application+Development+Staff+Meeting";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "50E872DA-58DD-4309-8B8F-41E8915D1270";
+				},
+				{	URIDictionary = { title = "Avalanche NEXT - UI"; };
+					URLString = "http://10.61.46.77/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "82B155CA-15CE-4B52-8572-D597B9E0C0BE";
+				},
+				{	URIDictionary = { title = "China team share drive"; };
+					URLString = "http://10.61.0.17/_layouts/viewlsts.aspx";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "9FB218AE-7B09-4281-8BB9-6247A6CC6E86";
+				},
+				{	URIDictionary = { title = "Automation systems' Jenkins Job"; };
+					URLString = "https://origin.spirenteng.com/pages/viewpage.action?pageId=39330139";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "A84BD522-7E27-44DA-93E6-84EEC4022AF9";
+				},
+				{	Children = (
+						{	ImportInfo = {
+								ImportOrigin = 1;
+								ImportOriginUUID = "11";
+							};
+							URIDictionary = { title = "!N&A Portfolio › Dashboard | Rally"; };
+							URLString = "https://rally1.rallydev.com/#/18139290329d/dashboard";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "4CCD43A2-8968-4CB0-8935-AD23BDF51E5E";
+						},
+						{	URIDictionary = { title = "Rally-use test set instead of test folder"; };
+							URLString = "https://rallydev.force.com/answers?id=906a00000008AVwAAM";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "3BA4FEFF-D512-4BCA-AC0B-9640E4ABB709";
+						},
+						{	URIDictionary = { title = "pyral 1.1.0 : Python Package Index"; };
+							URLString = "https://pypi.python.org/pypi/pyral";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "71A08554-F5A3-442A-8FD9-0CCFE2C57B8C";
+						},
+						{	URIDictionary = { title = "Python toolkit for the Rally REST API — pyral 1.1.0 documentation"; };
+							URLString = "http://pyral.readthedocs.org/en/latest/index.html";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "8F10457B-C377-4950-8CEC-33DA90E98EBA";
+						},
+						{	URIDictionary = { title = "https://rally1.rallydev.com/slm/doc/webservice/"; };
+							URLString = "https://rally1.rallydev.com/slm/doc/webservice/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "20017DC8-F77D-4626-A0CA-4650C792CD49";
+						},
+						{	URIDictionary = { title = "Prioritize Work - manual ranking | Rally Help"; };
+							URLString = "https://help.rallydev.com/prioritizing-work#manual";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "13444689-7AD2-4D50-ABBA-C9C0C0218B0F";
+						},
+						{	URIDictionary = { title = "Customize Your Workspace | Rally Help"; };
+							URLString = "https://help.rallydev.com/customize-your-workspace";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "429F8AEB-A709-40A9-93E4-621B1C0B7103";
+						},
+						{	URIDictionary = { title = "Rally Success"; };
+							URLString = "https://rallydev.force.com/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "D8EAA460-A8AB-4B26-98AA-E47186D36F85";
+						},
+						{	URIDictionary = { title = "How_to_interpret_DragAndDropRank"; };
+							URLString = "https://rallydev.force.com/answers?id=kA0a0000000YcYQCA0";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "F2E7F7F2-F6AB-4293-8C27-DF60A0C0EB86";
+						},
+						{	URIDictionary = { title = "Reorder test case in test set"; };
+							URLString = "https://help.rallydev.com/test-set#rank";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "BDA2B007-0A72-456F-B3A3-F125D936F12A";
+						},
+						{	URIDictionary = { title = "python - Rally APIs: How to copy Test Folder and member Test Cases - Stack Overflow"; };
+							URLString = "http://stackoverflow.com/questions/13223568/rally-apis-how-to-copy-test-folder-and-member-test-cases";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "235DC599-F863-4FD0-A421-10F7B0EADF1B";
+						},
+						{	URIDictionary = { title = "java - How to retrieve Test Cases associated with the Test Set - Stack Overflow"; };
+							URLString = "http://stackoverflow.com/questions/19934895/how-to-retrieve-test-cases-associated-with-the-test-set/27409284#27409284";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "46956D4D-205B-401F-BCEC-97F4CEA66AA7";
+						},
+						{	URIDictionary = { title = "Rally Update plugin - Jenkins - Jenkins Wiki"; };
+							URLString = "https://wiki.jenkins-ci.org/display/JENKINS/Rally+Update+plugin";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "74CAC579-A082-401B-8362-745FA0A18FC1";
+						},
+						{	URIDictionary = { title = "Jenkins Installation & User Guide | Rally Help"; };
+							URLString = "https://help.rallydev.com/jenkins-installation-user-guide#install";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "23B3071D-3A57-4F30-BFF2-B28867D16B3D";
+						},
+						{	URIDictionary = { title = "Add the ability of changing the ranking method for a specific project : View Idea"; };
+							URLString = "https://ideas.rallydev.com/ideas/D3375";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "ADC7769C-591D-47C8-BEE2-B228FD4B55E9";
+						},
+						{	URIDictionary = { title = "REST_server_for_test"; };
+							URLString = "https://github.com/typicode/jsonplaceholder";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "BF66381D-BD20-4959-80DE-9C4E24E668C1";
+						},
+						{	URIDictionary = { title = "View Build Status | Rally Help"; };
+							URLString = "https://help.rallydev.com/view-build-status";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "D8182AA4-EC2F-40D5-9E21-9691BE90A146";
+						},
+						{	URIDictionary = { title = "Rally Status Page"; };
+							URLString = "http://status.rallydev.com/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "C3C1C78C-E8E4-4BA7-BB21-0A097F2DF5CB";
+						},
+					);
+					Title = "Rally";
+					WebBookmarkType = "WebBookmarkTypeList";
+					WebBookmarkUUID = "2A8C0549-719D-4E4F-B896-765DFC343A56";
+				},
+				{	URIDictionary = { title = "ESPP"; };
+					URLString = "https://myshareplan.equiniti.com/spirent/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "B1438704-24C8-4747-8137-689B91BE9EE7";
+				},
+				{	URIDictionary = { title = "SW Test [Jenkins]"; };
+					URLString = "http://avalanche-jenkins.spirentcom.com:8080/view/SW%20Test/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "B048268C-FF8C-48FE-98FD-FE19737F269B";
+				},
+				{	URIDictionary = { title = "My Concur"; };
+					URLString = "https://www.concursolutions.com/portal.asp";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "092669CC-4642-4283-BA4D-8D6F85A9782E";
+				},
+				{	URIDictionary = { title = "MAC OS零起点运行RobotFramework / Jython / RIDE"; };
+					URLString = "http://robotframework.cn/mac-os-zero-start-to-rf-jython-ride/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "4BED4060-86E6-4F41-BF26-3158C6996253";
+				},
+				{	URIDictionary = { title = "AvQueues Controller (alternate) · mudynamics/avalanche_app Wiki"; };
+					URLString = "https://github.com/mudynamics/avalanche_app/wiki/AvQueues-Controller-%28alternate%29";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "9490C4C3-5A5C-4D34-9D2A-6BB5A68D6083";
+				},
+				{	URIDictionary = { title = "Avalanche NEXT"; };
+					URLString = "https://basecamp.com/1845489/projects/836507";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "EF477FD6-715D-473F-87DA-63FDBA1B08B6";
+				},
+				{	URIDictionary = { title = "How to get the tcl scripts run in smart test - Application Security Engineering - Origin"; };
+					URLString = "https://origin.spirenteng.com/display/MUEng/How+to+get+the+tcl+scripts+run+in+smart+test";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "694F56FF-439F-42FE-B46B-C691B07772D9";
+				},
+				{	URIDictionary = { title = "Avalanche NEXT_controller"; };
+					URLString = "http://10.10.1.31/#system/queue";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "4FEFE88B-83BA-4DD7-B1CD-02FF6B23707D";
+				},
+				{	URIDictionary = { title = "How to get the tcl scripts run in smart test - Application Security Engineering - Origin"; };
+					URLString = "https://origin.spirenteng.com/display/MUEng/How+to+get+the+tcl+scripts+run+in+smart+test";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "CE981D13-8E98-4AEA-9C27-200758B4877C";
+				},
+				{	URIDictionary = { title = "Instructions to install the freeBSD and Linux tarballs - Application Security Engineering - Origin"; };
+					URLString = "https://origin.spirenteng.com/display/MUEng/Instructions+to+install+the+freeBSD+and+Linux+tarballs";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "659557AC-E151-450D-9A1E-F0A91B431810";
+				},
+				{	URIDictionary = { title = "\x200E10.10.2.59:8080/userContent/stats.html"; };
+					URLString = "http://10.10.2.59:8080/userContent/stats.html";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "51180A50-513F-4BB0-8B34-A46390DE86EF";
+				},
+				{	URIDictionary = { title = "Fantastic & Awesome - Application Security Engineering - Origin"; };
+					URLString = "https://origin.spirenteng.com/pages/viewpage.action?pageId=41583024";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "4DD858B0-2FB2-4D34-9F16-37951B6BE9B5";
+				},
+				{	URIDictionary = { title = "AVNEXT-publish-unstable [Jenkins]"; };
+					URLString = "http://avalanche-jenkins.spirentcom.com:8080/view/AV-NEXT/job/AVNEXT-publish-unstable/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "9642DF7C-D7C6-4371-9F4B-4CD404652CED";
+				},
+				{	URIDictionary = { title = "RSA - Self-Service Console - Home"; };
+					URLString = "https://spccalrsam01.spirentcom.com:7004/console-selfservice/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "E235A8D8-0DE2-48A4-975B-51474D03C406";
+				},
+				{	URIDictionary = { title = "Continuous integration tests - Enterprise - Origin"; };
+					URLString = "https://origin.spirenteng.com/display/ENT/Continuous+integration+tests";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "BE0941AB-4E01-4195-8B43-0F04B129D930";
+				},
+				{	URIDictionary = { title = "Apache CouchDB - Futon: Overview"; };
+					URLString = "http://10.10.2.166:5984/_utils/index.html";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "9081536B-250C-4713-955F-156E2141FA03";
+				},
+				{	URIDictionary = { title = "AvNext Controller Inventory - Application Security Engineering - Origin"; };
+					URLString = "https://origin.spirenteng.com/display/MUEng/AvNext+Controller+Inventory";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "44B38CBD-EFA6-48C7-B3BA-E46CAEDC6975";
+				},
+				{	URIDictionary = { title = "Avalanche NEXT - Internal Service Listening Ports - Application Security Engineering - Origin"; };
+					URLString = "https://origin.spirenteng.com/display/MUEng/Avalanche+NEXT+-+Internal+Service+Listening+Ports";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "7409610B-9851-4F1A-A2C7-F58402F82454";
+				},
+				{	URIDictionary = { title = "Available / In Use Sunnyvale Lab Network IP addresses - Application Security Engineering - Origin"; };
+					URLString = "https://origin.spirenteng.com/pages/viewpage.action?pageId=40109389";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "91B8909D-D5D0-4D44-AE20-98B1B7CDC9C6";
+				},
+				{	URIDictionary = { title = "release_AVNEXT-publish [Jenkins]"; };
+					URLString = "http://avalanche-jenkins.spirentcom.com:8080/view/Release/job/release_AVNEXT-publish/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "E643C1F9-4D9A-4AA7-AA8E-6D154435208B";
+				},
+				{	URIDictionary = { title = "avalanche-next-ova-images"; };
+					URLString = "http://cloud.musecurity.com/data/AVNEXT-OVA-Images/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "516CC088-111A-4DC3-B949-E4D94D0C344E";
+				},
+				{	URIDictionary = { title = "TTA Servers - Application Security Engineering - Origin"; };
+					URLString = "https://origin.spirenteng.com/display/MUEng/TTA+Servers";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "4CEC8CDC-4B42-477A-A573-8CDB287F1AD8";
+				},
+			);
+			Title = "spirent";
+			WebBookmarkType = "WebBookmarkTypeList";
+			WebBookmarkUUID = "0C62822B-12E5-42BC-860B-EA4E9CC55090";
+		},
+		{	Children = (
+				{	ReadingList = {
+						DateAdded = @2015-05-28 00:11:37 +0000;
+						PreviewText = "Stack Exchange Inbox Reputation and Badges 3 1 help Stack Overflow Questions Tags Users Badges Unanswered Ask Question Getting error “RallyRESTAPIError: 422 Not authorized to perform action: Invalid key” ";
+					};
+					ReadingListNonSync = {
+						AddedLocally = :true;
+						ArchiveOnDisk = :true;
+						DateLastFetched = @2015-05-28 00:11:39 +0000;
+						FetchResult = 1;
+					};
+					URIDictionary = { title = "python - Getting error \"RallyRESTAPIError: 422 Not authorized to perform action: Invalid key\" when trying to create Rally test case - Stack Overflow"; };
+					URLString = "http://stackoverflow.com/questions/30495164/getting-error-rallyrestapierror-422-not-authorized-to-perform-action-invalid";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "29D0E5FC-4303-472E-8404-8E25DC1805E7";
+				},
+			);
+			ShouldOmitFromUI = :true;
+			Title = "com.apple.ReadingList";
+			WebBookmarkType = "WebBookmarkTypeList";
+			WebBookmarkUUID = "B358DACF-456B-4533-A0CE-AEB98E92F990";
+		},
+		{	Children = (
+				{	URIDictionary = { title = "请教关于SMTP对象的login问题-Python-ChinaUnix.net"; };
+					URLString = "http://bbs.chinaunix.net/thread-836514-1-1.html";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "DACE3066-FF12-4CB1-BE0E-4A69E566F2DF";
+				},
+				{	URIDictionary = { title = "What does an empty AUTH EHLO SMTP response mean with MS Exchange? - Server Fault"; };
+					URLString = "http://serverfault.com/questions/585769/what-does-an-empty-auth-ehlo-smtp-response-mean-with-ms-exchange";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "4B09A5D2-F648-4779-AFD0-52A2513E7F40";
+				},
+				{	URIDictionary = { title = "How to Use Telnet to Test SMTP Communication"; };
+					URLString = "http://technet.microsoft.com/en-us/library/aa995718(v=exchg.65).aspx";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "C4428A09-C54E-47C3-AE01-138E3DBB20C6";
+				},
+			);
+			Title = "SMTP";
+			WebBookmarkType = "WebBookmarkTypeList";
+			WebBookmarkUUID = "65076EED-6768-4D3D-95FC-A6F070FF8ED4";
+		},
+		{	Children = (
+				{	URIDictionary = { title = "Git version control with Eclipse (EGit) - Tutorial"; };
+					URLString = "http://www.vogella.com/tutorials/EclipseGit/article.html#multiprojects_add";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "BC906048-D5F5-436F-80AB-B853F1EDCD30";
+				},
+				{	URIDictionary = { title = "Git - What a Branch Is"; };
+					URLString = "http://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "4E5D85B7-140A-48B9-B7F3-EC4B44D6C897";
+				},
+				{	URIDictionary = { title = "Git merge master into feature branch - Stack Overflow"; };
+					URLString = "http://stackoverflow.com/questions/16955980/git-merge-master-into-feature-branch";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "AF5B1112-E9CE-42CF-A857-8B2799B4C6F7";
+				},
+				{	URIDictionary = { title = "EGit/User Guide - Eclipsepedia"; };
+					URLString = "http://wiki.eclipse.org/EGit/User_Guide";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "B08FD4B6-AC6C-4112-9B35-743C12B96B55";
+				},
+				{	URIDictionary = { title = "Pushing to multiple repositories with EGit | Gold Apple Software"; };
+					URLString = "http://goldapplesoftware.ca/blog/2011-05-pushing-multiple-repositories-egit";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "DA868087-961B-4205-849B-E5457E94DE20";
+				},
+				{	URIDictionary = { title = "How to push to multiple remote Git repositories using 1 Eclipse operation (killing 2 birds with 1 stone) - Appirio"; };
+					URLString = "http://appirio.com/category/tech-blog/2013/10/push-multiple-remote-git-repositories-using-1-eclipse-operation-killing-2-birds-1-stone/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "9E6160D4-2C8A-43B3-AADF-786526DCA755";
+				},
+				{	URIDictionary = { title = "Temporarily Stashing Your Work - Git Stash"; };
+					URLString = "http://www.gitguys.com/topics/temporarily-stashing-your-work/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "8BFB07AE-C4AA-48AE-B74F-5653D5C18D4B";
+				},
+				{	URIDictionary = { title = "Transferring a repository - User Documentation"; };
+					URLString = "https://help.github.com/articles/transferring-a-repository/#transferring-from-a-user-to-an-organization";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "3FD72D46-7C1E-493A-8D29-27898A7127BB";
+				},
+				{	URIDictionary = { title = "Collaborating - User Documentation"; };
+					URLString = "https://help.github.com/categories/collaborating/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "80506DB6-DFAD-43A5-8A55-0761680D573A";
+				},
+			);
+			Title = "Egit&Git";
+			WebBookmarkType = "WebBookmarkTypeList";
+			WebBookmarkUUID = "8A8780F0-D41B-4717-9660-C0A485F5AEE1";
+		},
+		{	Children = (
+				{	URIDictionary = { title = "\x200Ewww.regular-expressions.info/refquick.html"; };
+					URLString = "http://www.regular-expressions.info/refquick.html";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "963E9B50-0196-430C-9390-C8B05C88DC23";
+				},
+			);
+			Title = "regular_expression";
+			WebBookmarkType = "WebBookmarkTypeList";
+			WebBookmarkUUID = "1407AD8E-96D5-42B3-BE00-6F50CE466DD9";
+		},
+		{	Children = (
+				{	URIDictionary = { title = "bash - Difference between .bashrc and .bash_profile - Super User"; };
+					URLString = "http://superuser.com/questions/183870/difference-between-bashrc-and-bash-profile/183980#183980";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "D27D19E2-03CB-49FB-B4F6-320E4035CF85";
+				},
+				{	URIDictionary = { title = "bash - How to permanently set $PATH on Linux? - Stack Overflow"; };
+					URLString = "http://stackoverflow.com/questions/14637979/how-to-permanently-set-path-on-linux";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "79F39CC9-C938-4DEF-933A-0AFE22E2C567";
+				},
+				{	URIDictionary = { title = "The Debian GNU/Linux FAQ - The Debian package management tools"; };
+					URLString = "https://www.debian.org/doc/manuals/debian-faq/ch-pkgtools.en.html";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "75335B83-3047-4EEC-AF15-274B33730B3E";
+				},
+				{	URIDictionary = { title = "dpkg cheat sheet"; };
+					URLString = "http://www.cyberciti.biz/howto/question/linux/dpkg-cheat-sheet.php";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "84D7220A-2B71-4B1A-BCA5-24AD85870854";
+				},
+				{	URIDictionary = { title = "10 basic examples of Linux ps command"; };
+					URLString = "http://www.binarytides.com/linux-ps-command/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "8E804EE9-1882-4886-AEE4-E677754173EA";
+				},
+				{	URIDictionary = { title = "Linux Users and Groups - Linode Guides & Tutorials"; };
+					URLString = "https://www.linode.com/docs/tools-reference/linux-users-and-groups";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "20F15AB8-AA66-4955-8B39-BE687310A589";
+				},
+				{	URIDictionary = { title = "initctl command examples ~ Linux IQ"; };
+					URLString = "http://linuxadministrative.blogspot.com/2014/07/initctl-command-examples.html";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "274D964B-FCD1-42AC-93B2-EA09D40AAB35";
+				},
+				{	URIDictionary = { title = "Linux - Restarting the network interface using command lines"; };
+					URLString = "http://ccm.net/faq/1141-linux-restarting-the-network-interface-using-command-lines";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "998D1C95-6D37-4F4D-AB1B-A7ADE97E67DC";
+				},
+			);
+			Title = "shell&unix";
+			WebBookmarkType = "WebBookmarkTypeList";
+			WebBookmarkUUID = "1265FD92-6D21-4A62-B51F-A7E17FB6380D";
+		},
+		{	Children = (
+				{	URIDictionary = { title = "Scrum Methodology and Project Management"; };
+					URLString = "http://www.mountaingoatsoftware.com/agile/scrum";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "60FCAE47-C560-48F8-AF82-4F7478835C32";
+				},
+			);
+			Title = "scrum";
+			WebBookmarkType = "WebBookmarkTypeList";
+			WebBookmarkUUID = "70B75DB8-F7FD-4835-9B19-6DA258D2701E";
+		},
+		{	Children = (
+				{	URIDictionary = { title = "Main Page - Test Anything Protocol"; };
+					URLString = "https://testanything.org/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "CAB86BFD-82D3-453F-9E64-1B57CBA7EA2C";
+				},
+				{	URIDictionary = { title = "Maintainable Automated UI Tests - Tuts+ Code Article"; };
+					URLString = "http://code.tutsplus.com/articles/maintainable-automated-ui-tests--net-35089";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "5B5BBBD1-9A58-45BF-BA34-1ED7ADA71DD7";
+				},
+				{	URIDictionary = { title = "Continuous integration tests - Enterprise - Origin"; };
+					URLString = "https://origin.spirenteng.com/pages/viewpage.action?spaceKey=ENT&title=Continuous+integration+tests";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "BDFAC6D6-9B12-43B7-A884-052DB1796BDA";
+				},
+				{	URIDictionary = { title = "SaltStack"; };
+					URLString = "http://docs.saltstack.com/en/latest/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "56E7E8D5-E3F4-4F65-B59D-0763C021B3BA";
+				},
+				{	URIDictionary = { title = "mudynamics/avalanche_bootstrap -deployment"; };
+					URLString = "https://github.com/mudynamics/avalanche_bootstrap";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "AA408C11-4E0C-432E-AFA4-CFC540B867FF";
+				},
+				{	URIDictionary = { title = "acuminous/yadda"; };
+					URLString = "https://github.com/acuminous/yadda";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "FD42118C-4321-4DB0-88E3-6B5443F3D36B";
+				},
+				{	URIDictionary = { title = "\x200Ewww.oio.de/public/softwaretest/Totally-Data-Driven-Automated-Testing.pdf"; };
+					URLString = "http://www.oio.de/public/softwaretest/Totally-Data-Driven-Automated-Testing.pdf";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "3239CD20-73BF-4BAD-ABD2-15715BD7C71E";
+				},
+				{	Children = (
+						{	URIDictionary = { title = "Unit testing: Why bother? | Sound Software .ac.uk"; };
+							URLString = "http://soundsoftware.ac.uk/unit-testing-why-bother/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "8ED48080-2D7C-40EA-8BC0-F42EBDD5BAA3";
+						},
+						{	URIDictionary = { title = "Why I use py.test and you probably should too"; };
+							URLString = "http://halfcooked.com/presentations/pyconau2013/why_I_use_pytest.html";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "235987A2-FCA4-43B9-BDC9-3BEB0847E268";
+						},
+						{	URIDictionary = { title = "Unittest integration"; };
+							URLString = "http://pydev.org/manual_adv_pyunit.html";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "CDA64716-48CA-44C1-9E5B-2F5F7D635E1B";
+						},
+						{	URIDictionary = { title = "pytest: helps you write better programs"; };
+							URLString = "http://pytest.org/latest/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "3FBCA5C6-67EC-4605-AE92-5FEB9B33DAAE";
+						},
+						{	URIDictionary = { title = "25.3. unittest — Unit testing framework — Python 2.7.9 documentation"; };
+							URLString = "https://docs.python.org/2/library/unittest.html";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "709539D5-A5AD-4315-8AAC-99EBFEC53E7E";
+						},
+						{	URIDictionary = { title = "pytest introduction - Python Testing"; };
+							URLString = "http://pythontesting.net/framework/pytest/pytest-introduction/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "8F0731F4-D387-4910-9CF9-AC2946B747E5";
+						},
+						{	URIDictionary = { title = "py.test examples for Grok — zope.pytest v0.1 documentation"; };
+							URLString = "https://pythonhosted.org/zope.pytest/grok_samples.html";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "34E530A3-70CC-4BF5-B2EA-87D201E50FDE";
+						},
+						{	URIDictionary = { title = "pytest fixtures: explicit, modular, scalable"; };
+							URLString = "http://pytest.org/latest/fixture.html";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "AACF99FF-607A-4482-9EE4-69A6CD328E7F";
+						},
+						{	URIDictionary = { title = "Parametrizing fixtures and test functions"; };
+							URLString = "http://pytest.org/latest/parametrize.html#pytest-generate-tests";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "4454D38B-9EBC-460A-9D35-D49818EB13F4";
+						},
+						{	URIDictionary = { title = "The writing and reporting of assertions in tests"; };
+							URLString = "http://pytest.org/latest/assert.html#assertions-about-expected-exceptions";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "047500DD-DFA9-487C-B078-A2903AF66EA6";
+						},
+						{	URIDictionary = { title = "command line options"; };
+							URLString = "https://pytest.org/latest/usage.html";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "CA1B5893-3454-427C-A6DA-BCF384B20D3B";
+						},
+						{	URIDictionary = { title = "Run a single test class with unittest, nosetests, py.test - Python Testing"; };
+							URLString = "http://pythontesting.net/framework/specify-test-unittest-nosetests-pytest/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "424ED37F-FF03-4633-B1A3-D7AF9064C3FB";
+						},
+						{	URIDictionary = { title = "schlamar/pytest-cov"; };
+							URLString = "https://github.com/schlamar/pytest-cov";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "2891C78F-6282-4787-95A6-D82A6A137270";
+						},
+					);
+					Title = "Unittest";
+					WebBookmarkType = "WebBookmarkTypeList";
+					WebBookmarkUUID = "06108CF9-5A95-4D5E-9DFE-67C5095C41F9";
+				},
+				{	Children = (
+						{	URIDictionary = { title = "TestLink-API-Python-client 0.4.7 : Python Package Index"; };
+							URLString = "https://pypi.python.org/pypi/TestLink-API-Python-client/0.4.7";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "1E034034-733D-4E97-B993-981FF36BFEC8";
+						},
+					);
+					Title = "testlink";
+					WebBookmarkType = "WebBookmarkTypeList";
+					WebBookmarkUUID = "4681523F-5CE1-4C24-B0A4-E1EBEC48161D";
+				},
+				{	Children = (
+						{	URIDictionary = { title = "mozilla-cvs-history/testopia.py at master · jrmuizel/mozilla-cvs-history"; };
+							URLString = "https://github.com/jrmuizel/mozilla-cvs-history/blob/master/webtools/testopia/testopia/contrib/drivers/python/testopia.py";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "EBA5F998-83AF-489A-BD0F-A1F29FCFA465";
+						},
+						{	URIDictionary = { title = "Testopia Plugin - Jenkins - Jenkins Wiki"; };
+							URLString = "https://wiki.jenkins-ci.org/display/JENKINS/Testopia+Plugin";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "02E544D9-CE15-4EFB-B9CE-6E78B71DAB7F";
+						},
+					);
+					Title = "testopia&Bugzilla";
+					WebBookmarkType = "WebBookmarkTypeList";
+					WebBookmarkUUID = "7D646523-DFF4-4251-87B4-A0962A28ECF4";
+				},
+			);
+			Title = "Test_Automation";
+			WebBookmarkType = "WebBookmarkTypeList";
+			WebBookmarkUUID = "FA4C20B5-36F0-438C-BF98-7AB2BD080814";
+		},
+		{	Children = (
+				{	URIDictionary = { title = "A Simple Makefile Tutorial"; };
+					URLString = "http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "E5EFD8C2-4F52-4CA6-8407-72E48E9ABA5E";
+				},
+				{	URIDictionary = { title = "Makefile Tutorial - What is a Makefile?"; };
+					URLString = "http://www.sis.pitt.edu/~mbsclass/tutorial/advanced/makefile/whatis.htm";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "55950393-9054-4E7E-9936-36DC193BFFDC";
+				},
+				{	URIDictionary = { title = "Using the Rake Build Language"; };
+					URLString = "http://martinfowler.com/articles/rake.html#DependencyBasedProgramming";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "8F7C6994-9A25-4232-BB59-29EC6EC0731F";
+				},
+				{	URIDictionary = { title = "Rake Tutorial | Jason Seifer"; };
+					URLString = "http://jasonseifer.com/2010/04/06/rake-tutorial";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "F25F0698-47E5-40B0-B572-99895B607394";
+				},
+				{	Children = (
+						{	URIDictionary = { title = "Installing — Python Jenkins 0.4.4 documentation"; };
+							URLString = "https://python-jenkins.readthedocs.org/en/latest/install.html";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "5DD50534-EDA5-45C0-997F-2B80D0F08C5A";
+						},
+						{	URIDictionary = { title = "python-jenkins or jenkinsapi for jenkins remote access API in python - Stack Overflow"; };
+							URLString = "http://stackoverflow.com/questions/18074521/python-jenkins-or-jenkinsapi-for-jenkins-remote-access-api-in-python";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "98DEBD7F-A0A5-48E5-9666-A7441A979F1F";
+						},
+						{	URIDictionary = { title = "Python Jenkins — Python Jenkins 0.4.5 documentation"; };
+							URLString = "https://python-jenkins.readthedocs.org/en/latest/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "41606E5F-F96F-4873-82D8-352D209366D9";
+						},
+						{	URIDictionary = { title = "JenkinsAPI — JenkinsAPI 0.2.23 documentation"; };
+							URLString = "https://jenkinsapi.readthedocs.org/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "4A61A8FB-6538-4D81-9D2F-2701F78C6E0B";
+						},
+						{	URIDictionary = { title = "Remote access API - Jenkins - Jenkins Wiki"; };
+							URLString = "https://wiki.jenkins-ci.org/display/JENKINS/Remote+access+API";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "E8865750-5313-4C6A-92F4-283196FCB09A";
+						},
+						{	URIDictionary = { title = "Authenticating scripted clients - Jenkins - Jenkins Wiki"; };
+							URLString = "https://wiki.jenkins-ci.org/display/JENKINS/Authenticating+scripted+clients";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "539D400B-486C-4E8F-A15E-90FF4295C40E";
+						},
+					);
+					Title = "Jenkins";
+					WebBookmarkType = "WebBookmarkTypeList";
+					WebBookmarkUUID = "87617BAD-77B3-4B7C-B3DD-F7ABDDEB03EB";
+				},
+			);
+			Title = "Build_and_deployment";
+			WebBookmarkType = "WebBookmarkTypeList";
+			WebBookmarkUUID = "329D1E5B-BEB7-41D1-A2BD-4C2FF4F79806";
+		},
+		{	Children = (
+				{	Children = (
+						{	URIDictionary = { title = "Cyberoam Knowledge Base"; };
+							URLString = "http://kb.cyberoam.com/default.asp?id=2193";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "CB29F982-4FF2-4C5E-82E9-95AF21A35D5C";
+						},
+						{	URIDictionary = { title = "Admin-Admin not Working After Factory Reset | Palo Alto Networks Live"; };
+							URLString = "https://live.paloaltonetworks.com/docs/DOC-2886";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "902E0B81-C57B-4939-B1C6-5FDBB3D5A319";
+						},
+						{	URIDictionary = { title = "How to Factory Reset a Palo Alto Networks Device | Palo Alto Networks Live"; };
+							URLString = "https://live.paloaltonetworks.com/docs/DOC-4692";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "E93408FD-B635-4F38-8010-337577705E88";
+						},
+						{	URIDictionary = { title = "How to SSH into Maintenance Mode | Palo Alto Networks Live"; };
+							URLString = "https://live.paloaltonetworks.com/docs/DOC-5719";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "4C991958-A137-456D-81E7-F021D97B501D";
+						},
+						{	URIDictionary = { title = "https://live.paloaltonetworks.com/servlet/JiveServlet/previewBody/3490-102-2-9551/Initial_Configuration-4.1.pdf"; };
+							URLString = "https://live.paloaltonetworks.com/servlet/JiveServlet/previewBody/3490-102-2-9551/Initial_Configuration-4.1.pdf";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "328D146C-181D-4558-A5D7-3167F1960A2D";
+						},
+						{	URIDictionary = { title = "https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/technical-documentation/hardware-guides/pa-500/PA-500_Hardware_Guide.pdf"; };
+							URLString = "https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/technical-documentation/hardware-guides/pa-500/PA-500_Hardware_Guide.pdf";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "3F8FB7C1-907B-47E6-AC1D-321990CD010E";
+						},
+						{	URIDictionary = { title = "https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/technical-documentation/pan-os-60/PAN-OS-6.0-GSG.pdf"; };
+							URLString = "https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/technical-documentation/pan-os-60/PAN-OS-6.0-GSG.pdf";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "A1BF7B78-00BC-40C9-8ADE-22E9CD967A94";
+						},
+						{	URIDictionary = { title = "Using USB To Serial Converter In Windows 7 With Putty | Selfmod.Net"; };
+							URLString = "http://selfmod.net/using-usb-to-serial-converter-in-windows-7-with-putty/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "6BB0D396-6020-483E-A6EF-19E12E66C8D4";
+						},
+						{	URIDictionary = { title = "How to Reset Administrator Password | Palo Alto Networks Live"; };
+							URLString = "https://live.paloaltonetworks.com/docs/DOC-2345";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "31E76BC9-E027-4B25-A267-3FB0A27FDF23";
+						},
+					);
+					Title = "PA-500";
+					WebBookmarkType = "WebBookmarkTypeList";
+					WebBookmarkUUID = "7E65AD02-AD84-46DB-A9FF-A65F1379FAA6";
+				},
+			);
+			Title = "DUT";
+			WebBookmarkType = "WebBookmarkTypeList";
+			WebBookmarkUUID = "B99A7484-BF1B-4E64-821C-31E653ACA1E9";
+		},
+		{	Children = (
+				{	Children = (
+						{	URIDictionary = { title = "Problems | LeetCode OJ"; };
+							URLString = "https://oj.leetcode.com/problemset/algorithms/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "4FB8E848-8B5A-4463-B2F1-7C8DBFA64218";
+						},
+						{	URIDictionary = { title = "LeetCode题解汇总（C++ Java Python，含题目翻译） - 龙之梦 - 博客频道 - CSDN.NET"; };
+							URLString = "http://blog.csdn.net/lilong_dream/article/details/19763507";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "786ACA1E-910E-4C22-BE60-2A0F3DD9379A";
+						},
+						{	URIDictionary = { title = "Clone And Modify Programming"; };
+							URLString = "http://c2.com/cgi/wiki?CloneAndModifyProgramming";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "1DC73E82-63B5-4A62-9321-D89D1D1CDDCC";
+						},
+						{	URIDictionary = { title = "Construct Binary Tree from Preorder and Inorder Traversal | LeetCode OJ"; };
+							URLString = "https://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "BEFC1C50-2C0E-40B8-8006-C18AA1C55C20";
+						},
+					);
+					Title = "leetcode";
+					WebBookmarkType = "WebBookmarkTypeList";
+					WebBookmarkUUID = "EA2C2132-B7B6-47A2-960C-F5097F21C368";
+				},
+				{	Children = (
+						{	URIDictionary = { title = "SQL Interview Questions"; };
+							URLString = "http://www.programmerinterview.com/index.php/database-sql/introduction/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "7DB53D19-09BF-4937-83EE-8B6895D5D980";
+						},
+						{	URIDictionary = { title = "limit usage"; };
+							URLString = "http://dev.mysql.com/doc/refman/5.1/en/select.html";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "05AC73BE-1B1F-415F-94F9-5935EC5F1622";
+						},
+						{	URIDictionary = { title = "Execution Plan Basics"; };
+							URLString = "https://www.simple-talk.com/sql/performance/execution-plan-basics/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "1F1A2B1B-82D7-4ABC-81CF-49D001E2E98C";
+						},
+						{	URIDictionary = { title = "MySQL :: The MySQL Test Framework, Version 2.0 :: 4 Writing Test Cases"; };
+							URLString = "http://dev.mysql.com/doc/mysqltest/2.0/en/writing-tests.html";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "2710C848-98A8-46D1-BFDF-382EF9E9D42B";
+						},
+					);
+					Title = "sql";
+					WebBookmarkType = "WebBookmarkTypeList";
+					WebBookmarkUUID = "04D5B137-B05E-429D-BC89-067C90B1CCC8";
+				},
+				{	Children = (
+						{	URIDictionary = { title = "Time complexity of a computer program - YouTube"; };
+							URLString = "https://www.youtube.com/watch?v=V42FBiohc6c&list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn&spfreload=10";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "B7CB5034-AE44-4104-9112-C614DE248E19";
+						},
+						{	URIDictionary = { title = "Binary search tree - Implementation in C/C++ - YouTube"; };
+							URLString = "https://www.youtube.com/watch?v=COZK7NATh4k&spfreload=10";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "E2466E2C-004E-49E2-8EBA-5569D05D33AA";
+						},
+						{	URIDictionary = { title = "Big-O Algorithm Complexity Cheat Sheet"; };
+							URLString = "http://bigocheatsheet.com/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "00A71EDA-44B8-4F4D-BAD5-6507B93084FA";
+						},
+					);
+					Title = "Data_Structure_&_Algorithm";
+					WebBookmarkType = "WebBookmarkTypeList";
+					WebBookmarkUUID = "47F81C7F-E512-4504-BED7-7B7AFEA448E8";
+				},
+				{	Children = (
+						{	URIDictionary = { title = "15.7. logging — Logging facility for Python — Python 2.7.8 documentation"; };
+							URLString = "https://docs.python.org/2/library/logging.html";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "4A5927A2-448E-4307-B914-A6DF031EEE46";
+						},
+						{	URIDictionary = { title = "Logging HOWTO — Python 2.7.8 documentation"; };
+							URLString = "https://docs.python.org/2/howto/logging.html";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "8A22198F-E3B7-4314-B724-9E2B3CE13A45";
+						},
+						{	URIDictionary = { title = "Good logging practice in Python « Victor Lin's coding notes"; };
+							URLString = "http://victorlin.me/posts/2012/08/26/good-logging-practice-in-python";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "C291FE6E-6675-4E35-B847-4DBAA14399C7";
+						},
+						{	URIDictionary = { title = "Python logging in Django - Stack Overflow"; };
+							URLString = "http://stackoverflow.com/questions/342434/python-logging-in-django/345669#345669";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "FE2558D7-254D-4A0D-927A-F03F82DD21AC";
+						},
+						{	URIDictionary = { title = "design patterns - Is there a simple, elegant way to define Singletons in Python? - Stack Overflow"; };
+							URLString = "http://stackoverflow.com/questions/31875/is-there-a-simple-elegant-way-to-define-singletons-in-python/31887#31887";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "19DA9FE8-7841-434E-9BE7-1391FD33194F";
+						},
+						{	URIDictionary = { title = "Duplicate log output when using Python logging module - Stack Overflow"; };
+							URLString = "http://stackoverflow.com/questions/7173033/duplicate-log-output-when-using-python-logging-module";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "250CDF8D-9748-4C8D-A331-DE7CC9BFF366";
+						},
+						{	URIDictionary = { title = "Quickstart — Requests 2.5.0 documentation"; };
+							URLString = "http://docs.python-requests.org/en/latest/user/quickstart/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "F52D04E9-FD6A-4296-ACF1-5F2B182AD66A";
+						},
+						{	URIDictionary = { title = "pydev_manual"; };
+							URLString = "http://pydev.org/manual_101_root.html";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "50BE56E9-F503-420E-8B98-E58202853594";
+						},
+						{	URIDictionary = { title = "Decorator - look at the second answer!"; };
+							URLString = "http://stackoverflow.com/questions/6392739/what-does-the-at-symbol-do-in-python";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "5F47D912-7F60-4351-8762-BD4564D3F1B0";
+						},
+						{	URIDictionary = { title = "python - What is getattr() exactly and how do I use it? - Stack Overflow"; };
+							URLString = "http://stackoverflow.com/questions/4075190/what-is-getattr-exactly-and-how-do-i-use-it";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "02B4B3BF-3AEA-4257-B9F4-2803F9BB6C1A";
+						},
+						{	URIDictionary = { title = "if is not mutually exclusive; elif is"; };
+							URLString = "http://stackoverflow.com/questions/22782785/when-to-use-if-vs-elif-in-python";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "25EDC685-7714-41C1-BC99-F2E70DA8CE0E";
+						},
+						{	URIDictionary = { title = "Developer Interface — Requests 2.5.1 documentation"; };
+							URLString = "http://docs.python-requests.org/en/latest/api/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "F671751D-5536-4A86-8837-FDD07658DE77";
+						},
+						{	URIDictionary = { title = "10.7. glob — Unix style pathname pattern expansion — Python 2.7.9 documentation"; };
+							URLString = "https://docs.python.org/2/library/glob.html";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "D1476F91-933A-4C1C-B038-3CC50D4B4A7B";
+						},
+						{	URIDictionary = { title = "Associating Multiple Values with Each Key in a Dictionary - Python Cookbook"; };
+							URLString = "https://www.safaribooksonline.com/library/view/python-cookbook/0596001673/ch01s06.html";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "307F226D-379D-41EE-B773-4405C77FD633";
+						},
+					);
+					Title = "python_stuff";
+					WebBookmarkType = "WebBookmarkTypeList";
+					WebBookmarkUUID = "31FDC45A-0A0E-4777-9EA0-D21490408A79";
+				},
+				{	URIDictionary = { title = "Code Smell"; };
+					URLString = "http://c2.com/cgi/wiki?CodeSmell";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "5C226184-3CF2-4F05-BDAE-080AD9A17FBF";
+				},
+				{	URIDictionary = { title = "Once And Only Once"; };
+					URLString = "http://c2.com/cgi/wiki?OnceAndOnlyOnce";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "2102AA15-302C-45C1-AB85-145C5E5AC2A8";
+				},
+				{	URIDictionary = { title = "Composed Method"; };
+					URLString = "http://c2.com/cgi/wiki?ComposedMethod";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "FC5E75AB-B5AC-44A2-9702-B10405BDFBB8";
+				},
+				{	URIDictionary = { title = "It Came From Planet Architecture"; };
+					URLString = "http://blog.codinghorror.com/it-came-from-planet-architecture/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "E32D2D1B-2EE0-4377-919B-23B86061C109";
+				},
+				{	URIDictionary = { title = "Understanding Model-View-Controller"; };
+					URLString = "http://blog.codinghorror.com/understanding-model-view-controller/";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "E39216F5-43FC-4583-81E3-4A0DE933D748";
+				},
+				{	URIDictionary = { title = "Single Responsibility Protocol"; };
+					URLString = "http://www.objectmentor.com/resources/articles/srp.pdf";
+					WebBookmarkType = "WebBookmarkTypeLeaf";
+					WebBookmarkUUID = "E265BBF9-CCAC-44EE-B1A5-166950F20D88";
+				},
+				{	Children = (
+						{	URIDictionary = { title = "TclTutor : Interactive Computer Aided Instruction for Tcl"; };
+							URLString = "http://www.msen.com/~clif/TclTutor.html#download";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "B0A7D893-925A-410E-9B39-52CC194D6078";
+						},
+						{	URIDictionary = { title = "\x200Ewww.beedub.com/book/2nd/tclintro.doc.html"; };
+							URLString = "http://www.beedub.com/book/2nd/tclintro.doc.html";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "6A555509-65C9-4862-B05D-413910D340AF";
+						},
+					);
+					Title = "tcl";
+					WebBookmarkType = "WebBookmarkTypeList";
+					WebBookmarkUUID = "9A495B53-1C9A-4AF9-9CF2-C1C26C2A9E6B";
+				},
+				{	Children = (
+						{	URIDictionary = { title = "Solution to Project Euler problem 2 in C# | MathBlog"; };
+							URLString = "http://www.mathblog.dk/project-euler-problem-2/";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "EBB5ED61-C1A4-4B4B-A335-A8A323B944C9";
+						},
+						{	URIDictionary = { title = "algorithm - Why is the complexity of computing the Fibonacci series 2^n and not n^2? - Stack Overflow"; };
+							URLString = "http://stackoverflow.com/questions/7547133/why-is-the-complexity-of-computing-the-fibonacci-series-2n-and-not-n2";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "8E9D77A6-42CA-4BE2-8469-0415A31E2E2B";
+						},
+						{	URIDictionary = { title = "big o - Computational complexity of Fibonacci Sequence - Stack Overflow"; };
+							URLString = "http://stackoverflow.com/questions/360748/computational-complexity-of-fibonacci-sequence";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "21873EC3-B9E4-4EEF-B206-5FBE5F7971CA";
+						},
+						{	URIDictionary = { title = "Functional Fun: Project Euler Problem 5"; };
+							URLString = "http://blog.functionalfun.net/2008/04/project-euler-problem-5.html";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "88BAD0ED-9CF7-410F-8976-6FBF92E67F55";
+						},
+					);
+					Title = "Euler";
+					WebBookmarkType = "WebBookmarkTypeList";
+					WebBookmarkUUID = "63988352-D590-441A-936A-45801A98E6C2";
+				},
+				{	Children = (
+						{	URIDictionary = { title = "20.23. xmlrpclib — XML-RPC client access — Python 2.7.9 documentation"; };
+							URLString = "https://docs.python.org/2/library/xmlrpclib.html";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "57E7F96A-CB66-4F30-AC5E-4BE40B439E3F";
+						},
+					);
+					Title = "xmlrpc";
+					WebBookmarkType = "WebBookmarkTypeList";
+					WebBookmarkUUID = "ED5C4B32-BBEE-4F9F-835F-B351CC5B6537";
+				},
+				{	Children = (
+						{	URIDictionary = { title = "Character Entity Reference Chart"; };
+							URLString = "http://dev.w3.org/html5/html-author/charref";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "696836CA-CD72-41D6-A298-B81C78DBC4E9";
+						},
+					);
+					Title = "html&rest";
+					WebBookmarkType = "WebBookmarkTypeList";
+					WebBookmarkUUID = "D19724ED-9E78-4D63-8232-DFBC7987B643";
+				},
+				{	Children = (
+						{	URIDictionary = { title = "A real life RESTful Rails application - The Golden Middle Path - A blog"; };
+							URLString = "http://slotfix.in/blog/2009/10/06/a-real-life-restful-rails-application";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "63C7B2E6-E793-4F55-AD67-FFF82A62DFDB";
+						},
+						{	URIDictionary = { title = "Getting Started with Rails — Ruby on Rails Guides"; };
+							URLString = "http://guides.rubyonrails.org/getting_started.html#configuration-gotchas";
+							WebBookmarkType = "WebBookmarkTypeLeaf";
+							WebBookmarkUUID = "EAC88F01-9A20-485A-B625-3D7DA3A6D9C9";
+						},
+					);
+					Title = "ruby_stuff";
+					WebBookmarkType = "WebBookmarkTypeList";
+					WebBookmarkUUID = "F5B4CA5A-490D-4EEF-AE35-2F1F33F70700";
+				},
+			);
+			Title = "Coding";
+			WebBookmarkType = "WebBookmarkTypeList";
+			WebBookmarkUUID = "38CE5E96-CCFD-44BF-8208-75EA6BFD9C9C";
+		},
+	);
+	Title = "";
+	WebBookmarkFileVersion = 1;
+	WebBookmarkType = "WebBookmarkTypeList";
+	WebBookmarkUUID = "016571F4-D9CB-4E8E-B2F4-83F592B185BD";
+}
