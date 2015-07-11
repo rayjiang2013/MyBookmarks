@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>MyBookmarks</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Safari/Bookmarks.plist</name>
+			<type>1</type>
+			<location>/Users/ljiang/Library/Safari/Bookmarks.plist</location>
+		</link>
+	</linkedResources>
+</projectDescription>
